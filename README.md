@@ -12,7 +12,7 @@
 
 - 👨🏻‍💻 Experienced in working on MEAN stack.
 - 💼 Software Developent Engineer (Backend) at Reliance Jio.
-- 🌱 I’m currently learning Software architecture and Design patterns.
+- 🌱 Always learning  Best Software architectures and Design patterns.
 - 📫 You can email me here - rohit.patil.rrp16@gmail.com.
 
 <div align="left">
